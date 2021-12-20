@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @UcihaSasuke02
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+Uciha sasuke
 
 <!---
 UcihaSasuke02/UcihaSasuke02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
